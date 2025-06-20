@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#EFA00F"  # Accent color (buttons, highlights)
+backgroundColor="#0A0A2B"  # Main background color
+secondaryBackgroundColor="#0A0A3D"  # Sidebar/background sections color
+textColor="F5F0E9"  # Text color
+font="sans serif"  # Available fonts: 'sans serif', 'serif', 'monospace'
