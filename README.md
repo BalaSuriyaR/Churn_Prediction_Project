@@ -47,4 +47,4 @@ The app outputs:
 - Integrated Retention Recommendations
 - Report Generation
 ```
-Made to help businesses keep their valued customers.
+Made to help businesses retain their valued customers.
