@@ -29,7 +29,8 @@ churn-prediction-app/
 ├── Churn_Modelling.csv           # dataset
 ├── pipeline.pkl                  # Data preprocessing pipeline
 └── churn_prediction.ipynb        # EDA and model building notebook
-└── customer_report.pdf           # generated report pdf for the individual churn prediction 
+└── customer_report.pdf           # generated report pdf for the individual churn prediction
+└── dashboard_images              # screenshots of dashboard
 ```
 ## Prediction Output
 ```
