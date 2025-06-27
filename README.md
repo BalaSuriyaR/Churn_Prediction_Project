@@ -4,7 +4,7 @@
 
 - A machine learning-powered web application built using **Python** and **Streamlit**
 - It predicts whether a customer will churn based on their input attributes.
-- This project showcases data preprocessing, model training, deployment, and a sleek interactive UI.
+- This project showcases data wrangling, model training, deployment, and a sleek interactive UI.
 
 ## Tech Stack
 
