@@ -2,9 +2,8 @@
 ```markdown
 # Customer Churn Prediction Web App
 
-- A machine learning-powered web application built using **Python** and **Streamlit**
-- It predicts whether a customer will churn (Leave) or stay based on their data.
-- This project showcases data wrangling, model training, deployment, and a sleek interactive UI.
+- A machine learning-powered web application to predict whether a customer will churn (Leave) or stay based on their usage data.
+- This project was built using Streamlit for a sleek interactive UI and Python for data wrangling & training prediction models.
 
 ## Tech Stack
 
