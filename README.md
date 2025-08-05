@@ -3,15 +3,14 @@
 # Customer Churn Prediction Web App
 
 - A machine learning-powered web application built using **Python** and **Streamlit**
-- It predicts whether a customer will churn based on their input attributes.
+- It predicts whether a customer will churn (Leave) or stay based on their data.
 - This project showcases data wrangling, model training, deployment, and a sleek interactive UI.
 
 ## Tech Stack
 
-- **Frontend**: Streamlit
-- **Backend**: Python, scikit-learn, ReportLab
-- **Visualization**: Seaborn, Matplotlib, SHAP
-- **Deployment**: Localhost
+- Frontend: Streamlit
+- Backend: Python, scikit-learn, ReportLab
+- Visualization: Seaborn, Matplotlib, SHAP
 
 ## How It Works
 
@@ -35,11 +34,11 @@ churn-prediction-app/
 ## Prediction Output
 ```
 The app outputs:
-- **Customer input**
-- **Prediction**: Churn / No Churn
-- **Probability Score**
-- **Retention Strategy**
-- **Feature Importance Summary Visuals**
+- Customer input
+- Prediction: Churn / No Churn
+- Probability Score
+- Retention Strategy
+- Feature Importance Summary Visuals
 ```
 ## Enhancements
 ```
@@ -48,3 +47,4 @@ The app outputs:
 - Report Generation
 ```
 Made to help businesses retain their valued customers.
+Built for internship portfolio
